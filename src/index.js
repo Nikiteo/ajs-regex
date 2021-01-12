@@ -1,2 +1,2 @@
 // entry point for Webpack
-import './validation/validator.js';
+import './src/validation/validator.js';
